@@ -3,7 +3,12 @@
     text-align: center;
 }
 
-.bthModify, .btnCreate{
+.bthModify{
     background-color: #04d4d4;
+    color: white;
+}
+
+.btnCreate{
+     background-color: #05a122;
     color: white;
 }
