@@ -1,1 +1,14 @@
+.body{
+    font-style: Arial;
+    text-align: center;
+}
 
+.bthModify{
+    background-color: #04d4d4;
+    color: white;
+}
+
+.SFC .SourceCode-Forms-Controls-Web-Button{
+     background-color: #05a122;
+    color: white;
+}
